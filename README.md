@@ -12,7 +12,7 @@ the following steps :
 ```bash
 cd ..\P2_01_script_scraping
 python -m venv env
-pip install -a requierments.txt
+pip install -a requirements.txt
 ```
 
 ## Usage
